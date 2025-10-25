@@ -18,12 +18,6 @@
 - 🧩 Enhancing skills in *Docker, Kubernetes, and Terraform*
 
 
-### 💡 Technical Skills
-*Cloud & DevOps:* AWS (EC2, S3, IAM, CloudWatch, Cloud9), Docker, Kubernetes, Jenkins, Ansible, Terraform  
-*Programming & Tools:* Python, SQL, Shell Scripting, Git, Linux, CI/CD  
-*Data & AI:* Snowflake, ETL Pipelines, Data Cleaning, Machine Learning, NLP  
-*Other:* Agile & Scrum, Infrastructure as Code (IaC), Monitoring & Troubleshooting  
-
 
 ### 🏅 Certifications
 - AWS Certified Cloud Practitioner (CLF-C01)  
@@ -34,7 +28,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/anantmati-shanwade-0b9845230" target="blank">
+  <a href="https://www.linkedin.com/in/anantmati-shanwade-0b9845230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
