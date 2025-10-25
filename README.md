@@ -13,12 +13,11 @@
 🌍 Based in Ichalkaranji, Maharashtra  
 
 
-### 🔧 What I'm Working On
+### 🔧 I'm Working On
 - ☁ Exploring *AWS Cloud & DevOps Automation*  
 - 🤖 Building *Machine Learning* & *AI-driven* projects  
 - 🧩 Enhancing skills in *Docker, Kubernetes, and Terraform*
 
----
 
 ### 💡 Technical Skills
 *Cloud & DevOps:* AWS (EC2, S3, IAM, CloudWatch, Cloud9), Docker, Kubernetes, Jenkins, Ansible, Terraform  
@@ -26,14 +25,12 @@
 *Data & AI:* Snowflake, ETL Pipelines, Data Cleaning, Machine Learning, NLP  
 *Other:* Agile & Scrum, Infrastructure as Code (IaC), Monitoring & Troubleshooting  
 
----
 
 ### 🧪 Projects
 - 🧠 *Fake Product Review Monitoring System* – NLP-based fake review detection using opinion mining & IP validation  
 - 🌿 *Plant Disease Detection* – CNN model for leaf disease detection with 90% accuracy  
 - ✈ *Airline Reservation System* – Multi-user flight booking app with authentication  
 
----
 
 ### 🏅 Certifications
 - AWS Certified Cloud Practitioner (CLF-C01)  
@@ -41,7 +38,6 @@
 - NPTEL: Data Science for Engineers  
 - NPTEL: Business Analytics for Management Decisions  
 
----
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -52,7 +48,6 @@
 
 📧 *shanwadea123@gmail.com*
 
----
 
 ### ⚙ Languages and Tools
 <p align="left">
