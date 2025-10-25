@@ -12,7 +12,6 @@
 💻 Passionate about building scalable cloud and automation solutions  
 🌍 Based in Ichalkaranji, Maharashtra  
 
----
 
 ### 🔧 What I'm Working On
 - ☁ Exploring *AWS Cloud & DevOps Automation*  
