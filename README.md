@@ -8,9 +8,8 @@
   </a> 
 </p>
 
-🎓 *B.Tech in Artificial Intelligence & Data Science (2024)*  
+🎓 *B.Tech in Artificial Intelligence & Data Science *  
 💻 Passionate about building scalable cloud and automation solutions  
-🌍 Based in Ichalkaranji, Maharashtra  
 
 
 ### 🔧 I'm Working On
@@ -24,12 +23,6 @@
 *Programming & Tools:* Python, SQL, Shell Scripting, Git, Linux, CI/CD  
 *Data & AI:* Snowflake, ETL Pipelines, Data Cleaning, Machine Learning, NLP  
 *Other:* Agile & Scrum, Infrastructure as Code (IaC), Monitoring & Troubleshooting  
-
-
-### 🧪 Projects
-- 🧠 *Fake Product Review Monitoring System* – NLP-based fake review detection using opinion mining & IP validation  
-- 🌿 *Plant Disease Detection* – CNN model for leaf disease detection with 90% accuracy  
-- ✈ *Airline Reservation System* – Multi-user flight booking app with authentication  
 
 
 ### 🏅 Certifications
