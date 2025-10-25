@@ -8,22 +8,15 @@
   </a> 
 </p>
 
-🎓 *B.Tech in Artificial Intelligence & Data Science *  
+🎓 *B.Tech in Artificial Intelligence & Data Science*  
 💻 Passionate about building scalable cloud and automation solutions  
 
 
 ### 🔧 I'm Working On
-- ☁ Exploring *AWS Cloud & DevOps Automation*  
-- 🤖 Building *Machine Learning* & *AI-driven* projects  
-- 🧩 Enhancing skills in *Docker, Kubernetes, and Terraform*
-
-
-
-### 🏅 Certifications
-- AWS Certified Cloud Practitioner (CLF-C01)  
-- AWS Academy Graduate – Cloud Foundations  
-- NPTEL: Data Science for Engineers  
-- NPTEL: Business Analytics for Management Decisions  
+- ☁ Exploring **AWS Cloud & DevOps** Automation  
+- 🤖 Building **Machine Learning** & *AI-driven* projects  
+- 🧩 Enhancing skills in **Docker, Kubernetes, and Terraform**
+ 
 
 
 ### 🌐 Connect with Me
