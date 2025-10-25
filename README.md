@@ -13,14 +13,14 @@
 💻 Passionate about building scalable cloud and automation solutions  
 
 
-### 🔧 I'm Working On
+###  I'm Working On
  ☁ Exploring **AWS Cloud & DevOps** Automation  
  🤖 Building **Machine Learning** & *AI-driven* projects  
  🧩 Enhancing skills in **Docker, Kubernetes, and Terraform**
  
 
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/anantmati-shanwade-0b9845230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -30,7 +30,7 @@
 📧 *shanwadea123@gmail.com*
 
 
-### ⚙ Languages and Tools
+###  Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
