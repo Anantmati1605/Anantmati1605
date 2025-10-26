@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Anantmati Shanwade</h1>
+<h1 align="center">Hi, I'm Anantmati </h1>
 <h3 align="center">☁ Cloud | 🧠 AI | ⚙ DevOps Enthusiast</h3>
 
 <p align="left"> 
