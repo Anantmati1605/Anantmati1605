@@ -8,7 +8,7 @@
   </a> 
 </p>
 
-🎓 *B.Tech in Artificial Intelligence & Data Science*  
+🎓 B.Tech in Artificial Intelligence & Data Science  
 
 💻 Passionate about building scalable cloud and automation solutions  
 
