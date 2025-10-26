@@ -2,11 +2,6 @@
 <h1 align="center">Hi, I'm Anantmati </h1>
 <h3 align="center">☁ Cloud | 🧠 AI | ⚙ DevOps Enthusiast</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anantmati1605" />
-  </a> 
-</p>
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
 
