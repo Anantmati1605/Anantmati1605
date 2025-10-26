@@ -2,8 +2,7 @@
 <h1 align="center">Hi, I'm Anantmati </h1>
 <h3 align="center">☁ Cloud | 🧠 AI | ⚙ DevOps Enthusiast</h3>
 
-<h>
-</h>
+
 🎓 B.Tech in Artificial Intelligence & Data Science  
 
 💻 Passionate about building scalable cloud and automation solutions  
