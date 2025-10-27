@@ -9,9 +9,10 @@
 
 
 ###  I'm Working On
+ 🌱 I'm currently learning CI/CD pipeline
  ☁ Exploring **AWS Cloud & DevOps** Automation  
- 🤖 Building **Machine Learning** & *AI-driven* projects  
- 🧩 Enhancing skills in **Docker, Kubernetes, and Terraform**
+ 🤖 Building **AI & Cloud-driven** projects  
+ 🧩 Enhancing my skills in **Docker, jenkins and Terraform**
  
 
 
